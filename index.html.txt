@@ -1,11 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>PCI Compliant Page</title>
+  <title>PCI Page</title>
 </head>
 <body>
-  <h1>PCI Scan Compliance Page</h1>
-  <p>No cardholder data is stored, processed, or transmitted here.</p>
+  <h1>This is a secure PCI compliance page for CartClick.store</h1>
 </body>
 </html>
