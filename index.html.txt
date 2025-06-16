@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PCI Compliant Page</title>
+</head>
+<body>
+  <h1>PCI Scan Compliance Page</h1>
+  <p>No cardholder data is stored, processed, or transmitted here.</p>
+</body>
+</html>
